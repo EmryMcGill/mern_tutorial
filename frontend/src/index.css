@@ -31,3 +31,21 @@ header a {
   padding: 20px;
   margin: 0 auto;
 }
+
+.workout-details {
+  background: #ffffff;
+  margin: 0;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.workout-details h4 {
+  margin: 0;
+  margin-bottom: 5px;
+  color: var(--primary);
+  font-size: 1.2em;
+}
+
+.workout-details p {
+  margin: 0;
+}
